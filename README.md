@@ -1,2 +1,2 @@
 # community-resources
-Serie de recursos o aportes como libros, links, videotutoriales, etc. con el fin de hacerlos el fin de consulta para los interesados en la comunidad de JavaScript Nicaragua
+Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad para los participantes de la comunidad JavaScript Nicaragua.
