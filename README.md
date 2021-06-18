@@ -25,13 +25,15 @@ Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad para los par
     - 📌 [Miscelaneos](#-miscelaneos)
 
 
+<div><hr></div>
+
 ## 🌐 Sitios
 
-**Sitios dedicados al desarrollo en JavaScript **
+** Sitios dedicados al desarrollo en JavaScript **
 
 ## 💻 Documentación y contenido oficial del lenguaje en inglés 
 
-
+* [Beginner JavaScript Notes](https://wesbos.com/javascript) - JavaScript Notes & Reference
 ## ⭐ Menciones honoríficas en otros idiomas
 
 
@@ -64,6 +66,8 @@ Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad para los par
 
 ### 📌 Miscelaneos
 
+
+<div><hr></div>
 
 ## 🧑‍💻 Contribuir
 
